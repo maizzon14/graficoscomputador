@@ -450,7 +450,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 7c8192485c4d7104d956ad2acee44912, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: 3e0a6ff0685204045add86f17bd0a93f, type: 2}
+      objectReference: {fileID: 2100000, guid: 822f622b7421b3c448e2eed58974d951, type: 2}
     - target: {fileID: 919132149155446097, guid: 7c8192485c4d7104d956ad2acee44912, type: 3}
       propertyPath: m_Name
       value: Pokemon_Card
