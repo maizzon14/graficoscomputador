@@ -38,6 +38,9 @@
         },
         {
             "m_Id": "aed1afd153b54b59aa167da35e5503a7"
+        },
+        {
+            "m_Id": "8249456a0ba04ccda41a5c839b630a06"
         }
     ],
     "m_Keywords": [],
@@ -3196,6 +3199,50 @@
 }
 
 {
+    "m_SGVersion": 1,
+    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
+    "m_ObjectId": "8249456a0ba04ccda41a5c839b630a06",
+    "m_Guid": {
+        "m_GuidSerialized": "2591ecff-d941-426e-a8eb-773507daae79"
+    },
+    "promotedFromAssetID": "",
+    "promotedFromCategoryName": "",
+    "promotedOrdering": -1,
+    "m_Name": "Time speed",
+    "m_DefaultRefNameVersion": 1,
+    "m_RefNameGeneratedByDisplayName": "Time speed",
+    "m_DefaultReferenceName": "_Time_speed",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_UseCustomSlotLabel": false,
+    "m_CustomSlotLabel": "",
+    "m_DismissedVersion": 0,
+    "m_Precision": 0,
+    "overrideHLSLDeclaration": false,
+    "hlslDeclarationOverride": 0,
+    "m_Hidden": false,
+    "m_PerRendererData": false,
+    "m_customAttributes": [],
+    "m_Value": -0.20000000298023225,
+    "m_FloatType": 0,
+    "m_LiteralFloatMode": false,
+    "m_RangeValues": {
+        "x": 0.0,
+        "y": 1.0
+    },
+    "m_SliderType": 0,
+    "m_SliderPower": 3.0,
+    "m_EnumType": 0,
+    "m_CSharpEnumString": "",
+    "m_EnumNames": [
+        "Default"
+    ],
+    "m_EnumValues": [
+        0
+    ]
+}
+
+{
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.UVMaterialSlot",
     "m_ObjectId": "84522b55512640d28d04ea673fdd1725",
@@ -3645,6 +3692,9 @@
         },
         {
             "m_Id": "aed1afd153b54b59aa167da35e5503a7"
+        },
+        {
+            "m_Id": "8249456a0ba04ccda41a5c839b630a06"
         }
     ]
 }
@@ -4011,7 +4061,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":10307,\"guid\":\"0000000000000000f000000000000000\",\"type\":0}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"44f990959887dc14587791c5ac539a7a\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
