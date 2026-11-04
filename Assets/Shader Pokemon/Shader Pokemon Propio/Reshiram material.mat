@@ -79,12 +79,12 @@ Material:
     - _Mask_Strength: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Silueta_Opacity: 1.75
+    - _Silueta_Opacity: 2.25
     - _X_displacement: 0.015
     - _Y_displacement: -0.015
     m_Colors:
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
-    - _Silueta_Color: {r: 1, g: 0, b: 0, a: 1}
+    - _Silueta_Color: {r: 1, g: 0.44466835, b: 0, a: 1}
     - _Tiling: {r: 2, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

@@ -1,0 +1,3 @@
+Personaje de Jones, Mixamo https://www.mixamo.com/#/
+Prefab partículas, Unity Particle Pack
+Imagen exr, PolyHaven https://polyhaven.com/

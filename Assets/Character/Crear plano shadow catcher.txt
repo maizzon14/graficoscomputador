@@ -1,0 +1,3 @@
+Crea un plano, asígnale un material Universal Render Pipeline/Lit en Surface Options indica Surface Type: Transparent, Blending Mode: Multiply, Receive Shadows: marcado
+
+En Base Color coloca un color negro y baja la opacidad del color hasta conseguir integrar el plano con el entorno. 
