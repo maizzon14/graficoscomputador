@@ -54,12 +54,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Active: 0
     - _Dissolve_amount: 0
     - _Dissolve_border: 0.05
+    - _Duration: 1
+    - _Glow_Frequency: 2
     - _Glow_Power: 5
     - _Noise_scale: 40
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _StartTime: 0
     m_Colors:
     - _Dissolve_border_color: {r: 5.660378, g: 1.236347, b: 0, a: 1}
     - _Glow_color: {r: 78.79325, g: 0, b: 47.311897, a: 1}
